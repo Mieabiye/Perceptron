@@ -1,0 +1,2 @@
+student,student_id,seed,total_epochs,train_acc,test_acc,train_loss,test_loss,schedule
+George Mieabiye David,11,3610649576,10000,0.7272,0.7510,0.540008,0.505156,1-500:5.0;501-1000:1.0;1001-5000:0.1;5001-10000:0.01
